@@ -1,0 +1,3 @@
+interface LengthMeasurement {
+    double getMeasurement();
+}
